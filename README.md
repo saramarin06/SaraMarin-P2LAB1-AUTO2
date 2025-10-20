@@ -1,2 +1,1 @@
-Aquí se encuentran los codigos de la parte 2 del laboratorio # 1 de Automatización 2. 2025-2.
-El documento con las evidencias requeridas estan en la rama main.
+Aqui se encuentra el desarrollo de la parte dos del laboratorio 1 y 2 de automatizacion (parte de DJANGO). En donde main se encuentra todo lo que hice en la parte 1 y en la rama "segunda parte" se encuentra todo lo que hice en la segunda parte donde se le dio continuidad. 
